@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Iunigo components challenge",
   "main": "build/index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/arraydude/iunigo-components-challenge.git"
+  },
   "peerDependencies": {
     "react": "^16.0.0"
   },
